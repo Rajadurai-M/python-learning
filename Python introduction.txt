@@ -1,0 +1,36 @@
+Python
+
+What is python ?
+		Python is a popular programming language it was created by guido van rossum, in 1991
+It was used for :
+		Web development (server side)
+		software development 
+		mathemetics,
+		system scripting
+ What can python do?
+		Python can be used to create a web application 
+		Python can be used alongside software to create a workflow.
+		Python can connect to database system. It can also read and modify the files.
+		python can be used to handle the big data and perform complex mathemetics.
+		python can be used for rapid prototype or for production ready software development. 
+Why python?
+		Python works on different Platforms like (windows,mac,linux)
+		python has a simple syntax similar to the english language.
+		Python has a simple syntax that allows developer to write a programs in fiewer lines than other programming languages 
+		Python runs on a interpreter system meaning that code can be executed as soon as it written.
+		Python can be treated on procedural way, an object oriented or functional way.
+Python version- Now we use python version 3.14.0
+Practice for code - Visualstudio code 
+
+
+
+
+
+		
+		
+		
+
+
+
+ 
+		
