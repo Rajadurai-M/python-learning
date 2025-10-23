@@ -1,0 +1,45 @@
+Day 2:
+Python syntax
+
+Python indentation:
+		Indentation means the spaces at the beggining of the code 
+		Where in Other programming languages indetdation used for only the readability but python its very important 
+		Indentation used for indicate block of code
+		
+		Python gives a error if you miss the indentation 
+		As a programmer you use four space
+		Follow the same space indentation for the block otherwise python through the error message 
+statement:
+	A computer program is a list of instruction to be executed by computer
+	In programming language , these programming instructions are called statements,
+	ex: print() - Its used to print the values 
+	python have more statements 
+	Python execution is followed by line by line 
+Semi colons are optional rarely used 
+	But however if the same line two statements are mentioned seperator (;) semicolon is needed 
+
+print() is a build in function 
+To print text :
+
+To print a text in python must inside the quotes. we can use either double quotes "" or single quotes'' 
+end parameter :(end="")
+		In python end parameter used to print same line your text 
+		we add a space after end=" " for better readability.
+To print numbers :
+	To display the number we dont need to put inside the quotes 
+	We can do simple maths use print() function
+
+Python commends :
+	comments can be used to make the code more readable
+	comments can be used to explain the code
+	comments can be used to prevent execution while testing 
+
+Python variables :
+		variables are containers to store the data values.
+		In python dont need to declare the varibles 
+		Variable names are casesensitives
+
+type () function 
+		To identify the data type of values
+casting:
+	To change the data type of values 
